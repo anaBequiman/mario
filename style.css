@@ -1,0 +1,62 @@
+#titulo{ 
+    color: rgb(255, 255, 255);
+    width: 100%;
+    background-color: red;
+    text-align: left;
+    padding-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    display: inline;
+}
+#sm{ 
+    text-align: right;
+    color: rgb(255, 0, 0);
+    background-color: rgb(255, 0, 0);
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 0, 0);
+    float: right;
+}
+#mario{ 
+    width: 100%;
+    margin-top: 0px;
+}
+#jogar{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 0, 0);
+    border-radius: 25px;
+}
+h3{
+    background-color: red;
+    width: 300px;
+    color: white;
+    border-radius: 5px;
+}
+body{
+    font-family: 'Bebas Neue', cursive;
+}
+#principal{
+    background-color: red;
+    text-align: left;
+    width: 100%;
+}
+.modal-dialog{
+    width: 90%;
+    background-color: white;
+}
+h4{
+    background-color: white;
+    line-height: 2;
+    margin: 0px;
+}
+.imagemDeInstrucao{
+    width: 850px;
+    display: inline;
+}
+video{
+    background: url("game_console.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+    padding-bottom: 15px;
+}
